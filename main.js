@@ -11,6 +11,7 @@
 //   for (let j = 0; j < programmingLanguages[i].length; j++) {
 //     if (programmingLanguages[i][j] === "JavaScript") {
 //       console.log("JavaScript found");
+
 //     } 
 //     else {
 //         console.log("Looking for " + programmingLanguages[i]);
